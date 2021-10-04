@@ -1,5 +1,11 @@
+
+
+def kos_greetings():
+    print(f"Hello, I'm Kos!")
+
+
 def main():
-    pass
+    kos_greetings()
 
 
 if __name__ == '__main__':
