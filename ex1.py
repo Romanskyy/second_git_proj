@@ -1,6 +1,8 @@
 def kos_greetings():
     print(f"Hello, I'm Kos!")
 
+def rom_func():
+    print('Hi from Romanskyy!')
 
 def def_ulka():
     print('hello')
